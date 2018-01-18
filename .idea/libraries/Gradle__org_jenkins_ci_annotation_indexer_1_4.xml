@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jenkins-ci:annotation-indexer:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/annotation-indexer/1.4/5334460451b47f4f0d542aaf395839071db6b63/annotation-indexer-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jenkins-ci/annotation-indexer/1.4/80bc924f0cf0d49ee79852b9412844d234847517/annotation-indexer-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

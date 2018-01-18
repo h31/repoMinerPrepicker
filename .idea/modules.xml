@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repoMinerPrepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/repoMinerPrepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_main.iml" filepath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_main.iml" group="repoMinerPrepicker" />
+      <module fileurl="file://$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_test.iml" filepath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_test.iml" group="repoMinerPrepicker" />
+    </modules>
+  </component>
+</project>
