@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d1633b-c87e-4d0c-9392-89ba9767ba6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_google_code_gson_gson_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_infradna_tool_bridge_method_annotation_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_rabbitmq_amqp_client_5_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__commons_codec_commons_codec_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__commons_io_commons_io_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_eclipse_mylyn_github_org_eclipse_egit_github_core_2_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jenkins_ci_annotation_indexer_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_kohsuke_github_api_1_90.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_6_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/../repoMinerPrepicker/out/" />
     <ignored path="$PROJECT_DIR$/../repoMinerPrepicker/.gradle/" />
@@ -77,8 +46,8 @@
       <file leaf-file-name="main.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="289">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="e#0#310#0" expanded="true" />
                 <element signature="n#!!doc;n#main#0" expanded="false" />
@@ -996,12 +965,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516298575631</updated>
-      <workItem from="1516298578345" duration="5005000" />
+      <workItem from="1516298578345" duration="5576000" />
     </task>
+    <task id="LOCAL-00001" summary="Another commit">
+      <created>1516306392345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516306392345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5005000" />
+    <option name="totallyTimeSpent" value="5576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -1045,6 +1022,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Another commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -1074,8 +1055,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="289">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="e#0#310#0" expanded="true" />
             <element signature="n#!!doc;n#main#0" expanded="false" />

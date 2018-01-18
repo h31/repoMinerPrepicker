@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
 
     val client = GitHubClient()
 
-    client.setCredentials("Meadwild", "4069043r") //TODO: вынести на уровень конфигурации
+    client.setCredentials("Meadwild", "***") //TODO: вынести на уровень конфигурации
 
     var clientInitialLimitedRequestTime = System.currentTimeMillis()
 
