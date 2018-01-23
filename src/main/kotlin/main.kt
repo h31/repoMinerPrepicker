@@ -14,9 +14,11 @@ import java.util.HashMap
  */
 
 var numberOfJavaRepositories=0
-val DOWNLOAD_TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
-val RESPONSE_QUEUE_NAME = "responseQueue";
+val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
+val ACK_QUEUE_NAME = "ackQueue";
 var clientInitialLimitedRequestTime = System.currentTimeMillis()
+
+val client = GitHubClient()
 
 fun main(args: Array<String>) {
 
@@ -27,31 +29,91 @@ fun main(args: Array<String>) {
     val connection = factory.newConnection()
     val channel = connection.createChannel()
 
-    val client = GitHubClient()
+    val args = HashMap<String, Any>()
+    args.put("x-max-length", 200)
+    channel.queueDeclare(TASKS_QUEUE_NAME, false, false, false, args)
 
-    client.setCredentials("---", "***") //TODO: вынести на уровень конфигурации
-
+    client.setCredentials("***", "---") //TODO: вынести на уровень конфигурации
 
     val repositoryService = RepositoryService(client)
 
     val repoListIterator = repositoryService.pageAllRepositories()
 
-    var i = 0;
+    var initialIteration = 0;
 
-    limitedRepositoryDataPicker(repoListIterator, i, client, connection, channel)
+   sendData(connection, repoListIterator, channel)
 
 }
 
-/*fun waitForRepositoryDataConsumption(repoListIterator: PageIterator<Repository>,
-                                     startIteration: Int,
-                                     client: GitHubClient,
-                                     connection: Connection,
-                                     sendChannel: Channel,
-                                     clientInitialLimitedRequestTime: Long): Unit{
+fun sendData(connection: Connection, pageIterator: PageIterator<Repository>, sendChannel: Channel){
 
-    val responseChannel = connection.createChannel() // 2 channels -> too much (probably)
-    val responseQueue=responseChannel.queueDeclare( RESPONSE_QUEUE_NAME, false, false, false, null)
+    val dataSendResult=sendDataBeforeTrigger(pageIterator, sendChannel)
 
+    if (dataSendResult.first){
+        println("In wait")
+        waitForDataConsumption(connection, sendChannel, pageIterator);
+        return
+    }
+
+    sendChannel.basicPublish("", TASKS_QUEUE_NAME, null, "stop".toByteArray())
+    sendChannel.close()
+
+}
+
+var pagePickerCounter =0
+var totalNumberOfRepos=0
+
+private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
+                                  sendChannel: Channel): Pair<Boolean, Int> {
+    while (pageIterator.hasNext()) {
+
+        println("Iteration: $pagePickerCounter, remaining rate: ${client.remainingRequests}")
+
+        try {
+
+            var tmp=pageIterator.next().withIndex()
+
+            println("getSize ${tmp.count()}")
+            for ((index, repo) in tmp) {                        //Точно ли здесь всегда 100?
+                println("Index: $index, name: ${repo.name}, language: ${repo.language}")
+                totalNumberOfRepos++
+                if ((repo.language == "java") || (repo.language == null)) {
+
+                    println("Inside - $numberOfJavaRepositories")
+
+                    sendChannel.basicPublish("", TASKS_QUEUE_NAME,
+                            MessageProperties.PERSISTENT_BASIC, (repo.url + "/zipball").toByteArray())
+                    numberOfJavaRepositories++;
+                    if ((index+1) % 100 == 0) {
+                        println("1")
+                        return Pair(true,index)
+                    }
+                }
+            }
+        } catch (e: NoSuchPageException) {
+            println("Abuse/ rate limit handler processing.")
+            if ((e.cause as RequestException).status == 403) {  //Exception in thread "main" java.lang.Exception: Connection was abandoned: Bad credentials (401) сюда проходит
+                val sleepDuration = clientInitialLimitedRequestTime + 1000 * 60 * 60 - System.currentTimeMillis()
+                Thread.sleep(sleepDuration)
+                clientInitialLimitedRequestTime = System.currentTimeMillis()
+            } else throw Exception("Connection was abandoned: " + e.message)
+        }
+
+        pagePickerCounter++
+    }
+
+    return Pair(false,0)
+}
+
+
+fun waitForDataConsumption(connection: Connection,
+                           sendChannel: Channel,
+                           pageIterator: PageIterator<Repository>): Unit {
+
+    val responseChannel = connection.createChannel()
+
+    responseChannel.queueDeclare(ACK_QUEUE_NAME, false, false,
+            false, null)
 
     val consumer = object : DefaultConsumer(responseChannel) {
         @Throws(IOException::class)
@@ -61,87 +123,10 @@ fun main(args: Array<String>) {
             val message = String(body, Charset.forName("UTF-8"))
             if (message == "consumed") {
 
-                limitedRepositoryDataPicker(repoListIterator, startIteration, client, connection, sendChannel)
-
-
+                sendData(connection, pageIterator, sendChannel)
                 responseChannel.close()
-
             }
         }
     }
-    responseChannel.basicConsume(RESPONSE_QUEUE_NAME, true, consumer)
-}*/
-
-private fun limitedRepositoryDataPicker(repoListIterator: PageIterator<Repository>,
-                                        startIteration: Int,
-                                        client: GitHubClient,
-                                        connection: Connection,
-                                        sendChannel: Channel): Unit {
-    var pagePicker = startIteration //pagePicker, меняется внутри функции(!)s
-
-    val args = HashMap<String, Any>()
-    args.put("x-max-length", 100)
-
-    var totalNumberOfRepos=0
-
-    val sendQueue=sendChannel.queueDeclare(DOWNLOAD_TASKS_QUEUE_NAME, false, false, false, args)
-
-    while (repoListIterator.hasNext()) {
-
-        println("Iteration: $pagePicker, remaining rate: ${client.remainingRequests}")
-
-        try {
-
-            sendChannel.txSelect();
-
-            for ((index, repo) in repoListIterator.next().withIndex()) {
-                println("Index: $index, name: ${repo.name}, language: ${repo.language}")
-                totalNumberOfRepos++
-
-                if ((repo.language == "java") || (repo.language == null)) { //Реалии
-
-                    sendChannel.basicPublish("", DOWNLOAD_TASKS_QUEUE_NAME, MessageProperties.PERSISTENT_BASIC, (repo.url + "/zipball").toByteArray())
-                    sendChannel.txCommit();
-
-                    numberOfJavaRepositories++;
-
-
-                    if(totalNumberOfRepos%100==0) {
-                        println("before")
-                        sendChannel.waitForConfirms();
-                        println("after")
-                    }
-                    //if (sendQueue.messageCount == 100) {
-/*
-
-
-
-                        waitForRepositoryDataConsumption(repoListIterator, i1,
-                        client, connection, sendChannel,
-                        clientInitialLimitedRequestTime)
-
-                        return
-*/
-
-                    //}
-                }
-            }
-        } catch (e: NoSuchPageException) {
-            println("Abuse/ rate limit handler processing.")
-            if ((e.cause as RequestException).status == 403) {
-                val sleepDuration = clientInitialLimitedRequestTime + 1000 * 60 * 60 - System.currentTimeMillis()
-                Thread.sleep(sleepDuration)
-                clientInitialLimitedRequestTime = System.currentTimeMillis()
-            } else throw Exception("Connection was abandoned: " + e.message)
-        }
-
-        pagePicker++
-    }
-
-    sendChannel.basicPublish("", DOWNLOAD_TASKS_QUEUE_NAME, null, "stop".toByteArray())
-
-    sendChannel.close()
-    connection.close()
-
-    println("$numberOfJavaRepositories were recognized.")
+    responseChannel.basicConsume(ACK_QUEUE_NAME, true, consumer)
 }
