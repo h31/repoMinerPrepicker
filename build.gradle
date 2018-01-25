@@ -26,6 +26,7 @@ dependencies {
     compile group: 'org.slf4j', name: 'slf4j-simple', version: '1.6.4'
     compile  group: "org.eclipse.mylyn.github", name:'org.eclipse.egit.github.core', version:'2.1.5' //The only, available in Central
     compile group: 'org.kohsuke', name: 'github-api', version: '1.90'
+    compile "com.xenomachina:kotlin-argparser:2.0.4"
 }
 
 compileKotlin {

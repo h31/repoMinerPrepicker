@@ -8,10 +8,14 @@ import org.eclipse.egit.github.core.service.RepositoryService
 import java.io.IOException
 import java.nio.charset.Charset
 import java.util.HashMap
+import com.xenomachina.argparser.ArgParser
+import com.xenomachina.argparser.mainBody
 
 /**
  * Created by Neverland on 18.01.2018.
  */
+
+val TAG="repoMinerPrepicker: "
 
 var numberOfJavaRepositories=0
 val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
@@ -20,20 +24,32 @@ var clientInitialLimitedRequestTime = System.currentTimeMillis()
 
 val client = GitHubClient()
 
+class MyArgs(parser: ArgParser) {
+    val user by parser.storing("login for github authentication")
+    val password by parser.storing("password for github authentication")
+
+}
+
 fun main(args: Array<String>) {
 
-    println("repoMinerPrepicker: I'm starting now...")
+    println(TAG+"I'm starting now...")
+
+    var parsedArgs: MyArgs? = null
+
+    mainBody {
+        parsedArgs = ArgParser(args).parseInto(::MyArgs)
+    }
 
     val factory = ConnectionFactory()
     factory.host = "localhost"
     val connection = factory.newConnection()
     val channel = connection.createChannel()
 
-    val args = HashMap<String, Any>()
-    args.put("x-max-length", 200)
-    channel.queueDeclare(TASKS_QUEUE_NAME, false, false, false, args)
+    val messagingArgs = HashMap<String, Any>()
+    messagingArgs.put("x-max-length", 200)
+    channel.queueDeclare(TASKS_QUEUE_NAME, false, false, false, messagingArgs)
 
-    client.setCredentials("***", "---") //TODO: вынести на уровень конфигурации
+    client.setCredentials(parsedArgs!!.user, parsedArgs!!.password)
 
     val repositoryService = RepositoryService(client)
 
@@ -50,10 +66,13 @@ fun sendData(connection: Connection, pageIterator: PageIterator<Repository>, sen
     val dataSendResult=sendDataBeforeTrigger(pageIterator, sendChannel)
 
     if (dataSendResult.first){
-        println("In wait")
+        println(TAG+"Waiting for acknowledgment (100 picked repo's should be downloaded&stored).")
         waitForDataConsumption(connection, sendChannel, pageIterator);
         return
     }
+
+    println(TAG+"Total number of repo's: $totalNumberOfRepos")
+    println(TAG+"Number of java repo's: $numberOfJavaRepositories")
 
     sendChannel.basicPublish("", TASKS_QUEUE_NAME, null, "stop".toByteArray())
     sendChannel.close()
@@ -73,30 +92,26 @@ private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
 
             var tmp=pageIterator.next().withIndex()
 
-            println("getSize ${tmp.count()}")
-            for ((index, repo) in tmp) {                        //Точно ли здесь всегда 100?
-                println("Index: $index, name: ${repo.name}, language: ${repo.language}")
+            for ((index, repo) in tmp) {
+                println(TAG+"Index: $index, name: ${repo.name}")
                 totalNumberOfRepos++
                 if ((repo.language == "java") || (repo.language == null)) {
-
-                    println("Inside - $numberOfJavaRepositories")
 
                     sendChannel.basicPublish("", TASKS_QUEUE_NAME,
                             MessageProperties.PERSISTENT_BASIC, (repo.url + "/zipball").toByteArray())
                     numberOfJavaRepositories++;
                     if ((index+1) % 100 == 0) {
-                        println("1")
                         return Pair(true,index)
                     }
                 }
             }
         } catch (e: NoSuchPageException) {
-            println("Abuse/ rate limit handler processing.")
-            if ((e.cause as RequestException).status == 403) {  //Exception in thread "main" java.lang.Exception: Connection was abandoned: Bad credentials (401) сюда проходит
+            println(TAG+"Abuse/ rate limit handler processing.")
+            if ((e.cause as RequestException).status == 403) {
                 val sleepDuration = clientInitialLimitedRequestTime + 1000 * 60 * 60 - System.currentTimeMillis()
                 Thread.sleep(sleepDuration)
                 clientInitialLimitedRequestTime = System.currentTimeMillis()
-            } else throw Exception("Connection was abandoned: " + e.message)
+            } else throw Exception(TAG+"Connection was abandoned: " + e.message)
         }
 
         pagePickerCounter++
