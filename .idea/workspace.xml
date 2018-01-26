@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7d1633b-c87e-4d0c-9392-89ba9767ba6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_xenomachina_kotlin_argparser_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__com_xenomachina_xenocom_0_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_main.iml" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_test.iml" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/modules/repoMinerPrepicker_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/build.gradle" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_0.xml" afterPath="$PROJECT_DIR$/../repoMinerPrepicker/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_20.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../repoMinerPrepicker/out/" />
     <ignored path="$PROJECT_DIR$/../repoMinerPrepicker/.gradle/" />
@@ -52,10 +46,10 @@
       <file leaf-file-name="main.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="109" column="62" lean-forward="false" selection-start-line="109" selection-start-column="62" selection-end-line="109" selection-end-column="62" />
+            <state relative-caret-position="318">
+              <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="66" selection-end-column="34" />
               <folding>
-                <element signature="e#0#541#0" expanded="true" />
+                <element signature="e#0#682#0" expanded="true" />
                 <element signature="n#!!doc;n#TAG#0" expanded="false" />
               </folding>
             </state>
@@ -159,6 +153,8 @@
               <folding>
                 <element signature="e#0#61264#0" expanded="false" />
                 <element signature="imports" expanded="false" />
+                <element signature="e#2746#2762#0" expanded="false" />
+                <element signature="e#2898#2915#0" expanded="false" />
                 <element signature="e#5736#5737#0" expanded="false" />
                 <element signature="e#5781#5782#0" expanded="false" />
                 <element signature="e#6265#6266#0" expanded="false" />
@@ -179,6 +175,8 @@
                 <element signature="e#11622#11623#0" expanded="false" />
                 <element signature="e#11659#11660#0" expanded="false" />
                 <element signature="e#11714#11715#0" expanded="false" />
+                <element signature="e#22852#23091#0" expanded="false" />
+                <element signature="e#23090#23091#0" expanded="false" />
                 <element signature="e#59840#59841#0" expanded="false" />
                 <element signature="e#59879#59880#0" expanded="false" />
               </folding>
@@ -215,6 +213,7 @@
       <find>SEND_QUEUE_NAME</find>
       <find>clear_</find>
       <find>In w</find>
+      <find>fileH</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -585,8 +584,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -637,7 +635,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -666,7 +665,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="--user=Suntrie --password=venarim406" />
+      <option name="PROGRAM_PARAMETERS" value="--user=Suntrie --password=venarim406  --logger=E:\\repoMinerPrepickerLogger.txt" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -1095,7 +1094,8 @@
       <workItem from="1516701374542" duration="11979000" />
       <workItem from="1516908126610" duration="318000" />
       <workItem from="1516908670120" duration="4402000" />
-      <workItem from="1516917850207" duration="267000" />
+      <workItem from="1516917850207" duration="485000" />
+      <workItem from="1516955694623" duration="9011000" />
     </task>
     <task id="LOCAL-00001" summary="Another commit">
       <created>1516306392345</created>
@@ -1125,11 +1125,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516718380345</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавлена конфигурация через CMD, почищен вывод, отлажено взаимодействие с развёртыванием таблиц в БД.">
+      <created>1516918291287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516918291288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38694000" />
+    <option name="totallyTimeSpent" value="47923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -1138,19 +1145,19 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4334764" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4254292" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.36748928" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.2972103" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.6325107" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.7027897" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26341203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26609442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17864807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1177,7 +1184,8 @@
     <MESSAGE value="Another commit" />
     <MESSAGE value="Попытка синхронизации по максимальному количеству сообщений в очереди. messageCount даёт некорректное количество (связано с внутренним механизмом коммита сообщений rabbitMQ), при попытке перехода на автоподтверждения пока возникает ошибка &quot;confirms not selected&quot;. Можно подумать о синхронизации через synchronized или вручную (лучше), но такой вариант решения кажется наиболее предпочтительным." />
     <MESSAGE value="Работающая версия выгрузки проектов с гитхаб. &#10;Пока не протестированная на всех выборке.&#10;Требуется добавить конфигурацию через cmd и отладить взаимодействие с развёртыванием БД." />
-    <option name="LAST_COMMIT_MESSAGE" value="Работающая версия выгрузки проектов с гитхаб. &#10;Пока не протестированная на всех выборке.&#10;Требуется добавить конфигурацию через cmd и отладить взаимодействие с развёртыванием БД." />
+    <MESSAGE value="Добавлена конфигурация через CMD, почищен вывод, отлажено взаимодействие с развёртыванием таблиц в БД." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена конфигурация через CMD, почищен вывод, отлажено взаимодействие с развёртыванием таблиц в БД." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1195,7 +1203,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
@@ -1291,6 +1299,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1311,6 +1321,8 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1330,7 +1342,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
@@ -1426,6 +1438,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1446,6 +1460,8 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1465,7 +1481,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
@@ -1561,6 +1577,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1581,6 +1599,147 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
+            <element signature="e#59840#59841#0" expanded="false" />
+            <element signature="e#59879#59880#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#682#0" expanded="true" />
+            <element signature="n#!!doc;n#TAG#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.mylyn.github/org.eclipse.egit.github.core/2.1.5/4704e7f370d7d2fe59c82a5f128e390a36508cbc/org.eclipse.egit.github.core-2.1.5-sources.jar!/org/eclipse/egit/github/core/client/PageIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="157" column="25" lean-forward="false" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2885#2886#0" expanded="false" />
+            <element signature="e#2907#2908#0" expanded="false" />
+            <element signature="e#3002#3003#0" expanded="false" />
+            <element signature="e#3024#3025#0" expanded="false" />
+            <element signature="e#3123#3124#0" expanded="false" />
+            <element signature="e#3141#3142#0" expanded="false" />
+            <element signature="e#3237#3238#0" expanded="false" />
+            <element signature="e#3255#3256#0" expanded="false" />
+            <element signature="e#3284#3285#0" expanded="false" />
+            <element signature="e#3327#3328#0" expanded="false" />
+            <element signature="e#3352#3353#0" expanded="false" />
+            <element signature="e#3436#3437#0" expanded="false" />
+            <element signature="e#4583#4584#0" expanded="false" />
+            <element signature="e#4604#4605#0" expanded="false" />
+            <element signature="e#4691#4692#0" expanded="false" />
+            <element signature="e#4709#4710#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.1.1/e32a0a72bce2cc27421dfc8b99f96a209855a66e/amqp-client-5.1.1-sources.jar!/com/rabbitmq/client/MessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="54" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#3476#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.1.1/e32a0a72bce2cc27421dfc8b99f96a209855a66e/amqp-client-5.1.1-sources.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11033">
+          <caret line="679" column="33" lean-forward="false" selection-start-line="679" selection-start-column="33" selection-end-line="679" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#36110#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2272#2273#0" expanded="false" />
+            <element signature="e#2322#2323#0" expanded="false" />
+            <element signature="e#2377#2378#0" expanded="false" />
+            <element signature="e#2424#2425#0" expanded="false" />
+            <element signature="e#2460#2461#0" expanded="false" />
+            <element signature="e#2491#2492#0" expanded="false" />
+            <element signature="e#5486#5487#0" expanded="false" />
+            <element signature="e#5538#5539#0" expanded="false" />
+            <element signature="e#5609#5610#0" expanded="false" />
+            <element signature="e#5662#5663#0" expanded="false" />
+            <element signature="e#28680#28681#0" expanded="false" />
+            <element signature="e#28733#28734#0" expanded="false" />
+            <element signature="e#30118#30119#0" expanded="false" />
+            <element signature="e#30166#30167#0" expanded="false" />
+            <element signature="e#30217#30218#0" expanded="false" />
+            <element signature="e#30259#30260#0" expanded="false" />
+            <element signature="e#30304#30305#0" expanded="false" />
+            <element signature="e#30344#30345#0" expanded="false" />
+            <element signature="e#30424#30425#0" expanded="false" />
+            <element signature="e#30476#30477#0" expanded="false" />
+            <element signature="e#30559#30560#0" expanded="false" />
+            <element signature="e#30614#30615#0" expanded="false" />
+            <element signature="e#33809#33810#0" expanded="false" />
+            <element signature="e#33859#33860#0" expanded="false" />
+            <element signature="e#33925#33926#0" expanded="false" />
+            <element signature="e#33981#33982#0" expanded="false" />
+            <element signature="e#34035#34036#0" expanded="false" />
+            <element signature="e#34093#34094#0" expanded="false" />
+            <element signature="e#34165#34166#0" expanded="false" />
+            <element signature="e#34224#34225#0" expanded="false" />
+            <element signature="e#34284#34285#0" expanded="false" />
+            <element signature="e#34348#34349#0" expanded="false" />
+            <element signature="e#36058#36059#0" expanded="false" />
+            <element signature="e#36105#36106#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.1.1/e32a0a72bce2cc27421dfc8b99f96a209855a66e/amqp-client-5.1.1-sources.jar!/com/rabbitmq/client/impl/ChannelN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2703">
+          <caret line="206" column="30" lean-forward="false" selection-start-line="206" selection-start-column="19" selection-end-line="206" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#61264#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
+            <element signature="e#5736#5737#0" expanded="false" />
+            <element signature="e#5781#5782#0" expanded="false" />
+            <element signature="e#6265#6266#0" expanded="false" />
+            <element signature="e#6320#6321#0" expanded="false" />
+            <element signature="e#6376#6377#0" expanded="false" />
+            <element signature="e#6415#6416#0" expanded="false" />
+            <element signature="e#6493#6494#0" expanded="false" />
+            <element signature="e#6539#6540#0" expanded="false" />
+            <element signature="e#7286#7287#0" expanded="false" />
+            <element signature="e#7342#7343#0" expanded="false" />
+            <element signature="e#7399#7400#0" expanded="false" />
+            <element signature="e#7439#7440#0" expanded="false" />
+            <element signature="e#9730#9731#0" expanded="false" />
+            <element signature="e#9768#9769#0" expanded="false" />
+            <element signature="e#9976#9977#0" expanded="false" />
+            <element signature="e#10018#10019#0" expanded="false" />
+            <element signature="e#11574#11575#0" expanded="false" />
+            <element signature="e#11622#11623#0" expanded="false" />
+            <element signature="e#11659#11660#0" expanded="false" />
+            <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1600,7 +1759,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
@@ -1669,6 +1828,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1689,6 +1850,8 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1708,7 +1871,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
@@ -1721,6 +1884,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1741,6 +1906,8 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1773,6 +1940,8 @@
           <folding>
             <element signature="e#0#61264#0" expanded="false" />
             <element signature="imports" expanded="false" />
+            <element signature="e#2746#2762#0" expanded="false" />
+            <element signature="e#2898#2915#0" expanded="false" />
             <element signature="e#5736#5737#0" expanded="false" />
             <element signature="e#5781#5782#0" expanded="false" />
             <element signature="e#6265#6266#0" expanded="false" />
@@ -1793,6 +1962,8 @@
             <element signature="e#11622#11623#0" expanded="false" />
             <element signature="e#11659#11660#0" expanded="false" />
             <element signature="e#11714#11715#0" expanded="false" />
+            <element signature="e#22852#23091#0" expanded="false" />
+            <element signature="e#23090#23091#0" expanded="false" />
             <element signature="e#59840#59841#0" expanded="false" />
             <element signature="e#59879#59880#0" expanded="false" />
           </folding>
@@ -1881,10 +2052,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../repoMinerPrepicker/src/main/kotlin/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="109" column="62" lean-forward="false" selection-start-line="109" selection-start-column="62" selection-end-line="109" selection-end-column="62" />
+        <state relative-caret-position="318">
+          <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="66" selection-end-column="34" />
           <folding>
-            <element signature="e#0#541#0" expanded="true" />
+            <element signature="e#0#682#0" expanded="true" />
             <element signature="n#!!doc;n#TAG#0" expanded="false" />
           </folding>
         </state>
