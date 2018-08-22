@@ -19,7 +19,7 @@ import java.util.logging.SimpleFormatter
  * Created by Neverland on 18.01.2018.
  */
 
-val TAG="repoMinerPrepicker: "
+val TAG="repoMinerPrepicker11: "
 
 var numberOfJavaRepositories=0
 val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
