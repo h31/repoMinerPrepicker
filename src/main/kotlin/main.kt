@@ -56,9 +56,9 @@ fun main(args: Array<String>) {
         val formatter = SimpleFormatter()
         fileHandler!!.formatter = formatter
 
-    } catch (e: SecurityException) {
+    } /*catch (e: SecurityException) {
         e.printStackTrace()
-    } catch (e: IOException) {
+    }*/ catch (e: IOException) {
         e.printStackTrace()
     }
 
@@ -71,6 +71,7 @@ fun main(args: Array<String>) {
     val messagingArgs = HashMap<String, Any>()
     messagingArgs.put("x-max-length", 200)
     channel.queueDeclare(TASKS_QUEUE_NAME, false, false, false, messagingArgs)
+
 
     client.setCredentials(parsedArgs!!.user, parsedArgs!!.password)
 
@@ -118,18 +119,18 @@ private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
 
         try {
 
-            var tmp=pageIterator.next().withIndex()
+            val tmp=pageIterator.next().withIndex()
 
             for ((index, repo) in tmp) {
                 fileLogger!!.log(Level.INFO,"Index: $index, name: ${repo.name}")
                 totalNumberOfRepos++
-                if ((repo.language == "java") || (repo.language == null)) {
+                if (((repo.language == "java") || (repo.language == null))&&repo.size<=2097151) {       // Для попадания в [] byte
                     fileLogger!!.log(Level.INFO,"Java repository, number: $javaRepositoriesCounter")
                     javaRepositoriesCounter++
 
                     sendChannel.basicPublish("", TASKS_QUEUE_NAME,
                             MessageProperties.PERSISTENT_BASIC, (repo.url + "/zipball").toByteArray())
-                    numberOfJavaRepositories++;
+                    numberOfJavaRepositories++;                                                         // Можно объединить
                     if ((javaRepositoriesCounter) % 100 == 0) {
                         return Pair(true,javaRepositoriesCounter)
                     }
@@ -179,8 +180,8 @@ fun waitForDataConsumption(connection: Connection,
             val message = String(body, Charset.forName("UTF-8"))
             if (message == "consumed") {
                 fileLogger!!.log(Level.INFO,"Got acknowledgment.")
-                sendData(connection, pageIterator, sendChannel)
                 responseChannel.close()
+                sendData(connection, pageIterator, sendChannel)
             }
         }
     }
