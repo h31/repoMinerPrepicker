@@ -16,7 +16,7 @@ import java.util.logging.Logger
 import java.util.logging.SimpleFormatter
 
 /**
- * Created by Neverland on 18.01.2018.
+ * Created by Neverland on 18.01.2018 .
  */
 
 val TAG="repoMinerPrepicker: "
