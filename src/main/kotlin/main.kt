@@ -26,7 +26,7 @@ val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
 val ACK_QUEUE_NAME = "ackQueue";
 var clientInitialLimitedRequestTime = System.currentTimeMillis()
 
-val client = GitHubClient()
+val client = GitHubClientWithResetInfo()
 
 var fileLogger: Logger? = null
 var fileHandler: FileHandler? = null
@@ -56,14 +56,14 @@ fun main(args: Array<String>) {
         val formatter = SimpleFormatter()
         fileHandler!!.formatter = formatter
 
-    } /*catch (e: SecurityException) {
-        e.printStackTrace()
-    }*/ catch (e: IOException) {
+    } catch (e: IOException) {
         e.printStackTrace()
     }
 
     val factory = ConnectionFactory()
-    factory.host = "localhost"
+    factory.host = "10.100.174.242"
+    factory.username = "aaa"
+    factory.password = "aaa"
     factory.requestedHeartbeat = 0
     val connection = factory.newConnection()
     val channel = connection.createChannel()
@@ -129,7 +129,7 @@ private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
                     javaRepositoriesCounter++
 
                     sendChannel.basicPublish("", TASKS_QUEUE_NAME,
-                            MessageProperties.PERSISTENT_BASIC, (repo.url + "/zipball").toByteArray())
+                            MessageProperties.PERSISTENT_BASIC, repo.url.toByteArray())
                     numberOfJavaRepositories++;                                                         // Можно объединить
                     if ((javaRepositoriesCounter) % 100 == 0) {
                         return Pair(true,javaRepositoriesCounter)
@@ -162,28 +162,8 @@ private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
     return Pair(false,0)
 }
 
-
-fun waitForDataConsumption(connection: Connection,
-                           sendChannel: Channel,
-                           pageIterator: PageIterator<Repository>): Unit {
-
-    val responseChannel = connection.createChannel()
-
-    responseChannel.queueDeclare(ACK_QUEUE_NAME, false, false,
-            false, null)
-
-    val consumer = object : DefaultConsumer(responseChannel) {
-        @Throws(IOException::class)
-        override fun handleDelivery(consumerTag: String, envelope: Envelope,
-                                    properties: AMQP.BasicProperties, body: ByteArray) {
-
-            val message = String(body, Charset.forName("UTF-8"))
-            if (message == "consumed") {
-                fileLogger!!.log(Level.INFO,"Got acknowledgment.")
-                responseChannel.close()
-                sendData(connection, pageIterator, sendChannel)
-            }
-        }
-    }
-    responseChannel.basicConsume(ACK_QUEUE_NAME, true, consumer)
-}
+//            if (message == "consumed") {
+//                fileLogger!!.log(Level.INFO,"Got acknowledgment.")
+//                responseChannel.close()
+//                sendData(connection, pageIterator, sendChannel)
+//            }
