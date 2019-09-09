@@ -1,0 +1,2816 @@
+сен 09, 2019 2:43:25 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 0, remaining rate: -1
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: grit
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 0
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: merb-core
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 1
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: rubinius
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 2
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: god
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 3
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: jsawesome
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 4
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: jspec
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 5
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: exception_logger
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 6
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: ambition
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 7
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: restful-authentication
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 8
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: attachment_fu
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 9
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: microsis
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 10
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: s3
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 11
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: taboo
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 12
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: foxtracs
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 13
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: fotomatic
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 14
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: glowstick
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 15
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: starling
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 16
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: merb-more
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 17
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: thin
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 18
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: resource_controller
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 19
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: markaby
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 20
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: enum_field
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 21
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: subtlety
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 22
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: zippy
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 23
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: cache_fu
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 24
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: phosphor
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 25
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: sinatra
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 26
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: gsa-prototype
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 27
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: duplikate
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 28
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: lazy_record
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 29
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: gsa-feeds
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 30
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: votigoto
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 31
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: mofo
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 32
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: xhtmlize
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 33
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: ruby-git
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 34
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: bmhsearch
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 35
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: mofo
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 36
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: simply_versioned
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 37
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: gchart
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 38
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: schemr
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 39
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: calais
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 40
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: chronic
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 41
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: git-wiki
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 42
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: signal-wiki
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 43
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: ruby-on-rails-tmbundle
+сен 09, 2019 2:43:26 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 44
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: low-pro-for-jquery
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 45
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: merb-core
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 46
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: dst
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 47
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: yaws
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 48
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: yaws
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 49
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: tasks
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 50
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: ruby-on-rails-tmbundle
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 51
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: amazon-ec2
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 52
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: merblogger
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 53
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: merbtastic
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 54
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: alogr
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 55
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: autozest
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 56
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: rnginx
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 57
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: sequel
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 58
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: simply_versioned
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 59
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: switchpipe
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 60
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: arc
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 61
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: ebay4r
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 62
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: merb-plugins
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 63
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: ram
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 64
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: ambitious_activeldap
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 65
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: fitter_happier
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 66
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: oebfare
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 67
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: credit_card_tools
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 68
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: rorem
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 69
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: braid
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 70
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: uploadcolumn
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 71
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: ruby-on-rails-tmbundle
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 72
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: rack-mirror
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 73
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: coset-mirror
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 74
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: javascript-unittest-tmbundle
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 75
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: eycap
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 76
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: gitsum
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 77
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: sequel-model
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 78
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: god
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 79
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: blerb-core
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 80
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: django-mptt
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 81
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: bus-scheme
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 82
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: javascript-bits
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 83
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: groomlake
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 84
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: forgery
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 85
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: ambitious-sphinx
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 86
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: soup
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 87
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: rails
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 88
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: backpacking
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 89
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: capsize
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 90
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: starling
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 91
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: ape
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 92
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: awesomeness
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 93
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: audited
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 94
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: acts_as_geocodable
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 95
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: acts_as_money
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 96
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: calendar_builder
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 97
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: clear_empty_attributes
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 98
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: css_naked_day
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 99
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 1, remaining rate: 4992
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: imap_authenticatable
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 100
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: random_finders
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 101
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: with_action
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 102
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: graticule
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 103
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: tinder
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 104
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: invisible
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 105
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: pyprofile
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 106
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: rush
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 107
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: ike
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 108
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: halcyon
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 109
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: cruisecontrolrb
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 110
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: opml-schema
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 111
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: reddy
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 112
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: youtube-g
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 113
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: facebox
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 114
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: haml
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 115
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: kissgen
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 116
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: exception_logger
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 117
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: brain_buster
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 118
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: vanhelsing
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 119
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: linthicum
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 120
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: textilizefu
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 121
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: slate
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 122
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: archangel
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 123
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: god
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 124
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: newjs
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 125
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: twitter
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 126
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: googlebase
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 127
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: googlereader
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 128
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: mirrored
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 129
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: scrobbler
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 130
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: lorem
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 131
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: rails-authorization-plugin
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 132
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: drnic_js_test_helpers
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 133
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: mephisto-erb-templates-plugin
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 134
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: imdb
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 135
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: userstamp
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 136
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: matzbot
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 137
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: pci4r
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 138
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: exposure
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 139
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: packet
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 140
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: elderbrowser
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 141
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: git-wiki
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 142
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: merb-core
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 143
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: jim
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 144
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: blankable
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 145
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: merb-for-rails
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 146
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: portmidi-ruby
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 147
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: vjot
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 148
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: errcount
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 149
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: jquery-autocomplete
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 150
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: finally
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 151
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: alfred
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 152
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: github-campfire
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 153
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: merb-more
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 154
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: merb-core
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 155
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: blanket
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 156
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: merb-more
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 157
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: rubyports
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 158
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: wordcram
+сен 09, 2019 2:43:27 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 159
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: dumbapp
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 160
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: merl
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 161
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: squawk-micro
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 162
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: io
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 163
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: fuzed-old
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 164
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: comment_replies
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 165
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: tumblr
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 166
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: codesnippets
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 167
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: barby
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 168
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: sin
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 169
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: jsunittest
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 170
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: delayed_job
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 171
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: admin_tasks
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 172
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: chronic
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 173
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: ruby-satisfaction
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 174
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: llor-nu-legacy
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 175
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: rubyurl
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 176
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: rubyurl
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 177
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: mor7-google-charts-demo
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 178
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: dm
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 179
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: eldorado
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 180
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: stringex
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 181
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: freefall
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 182
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: merb-core
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 183
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: git-wiki
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 184
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: kroonikko
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 185
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: bus-scheme
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 186
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: bindata
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 187
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: bookqueue
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 188
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: strokedb
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 189
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: bus-scheme
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 190
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: yark
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 191
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: capistrano-bells
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 192
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: calendar-maker
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 193
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: mydry
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 194
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: gemify
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 195
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: mor7
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 196
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: blog
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 197
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: hairball
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 198
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: merb-core
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 199
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 2, remaining rate: 4991
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: evm-portal
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 200
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: enroll
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 201
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: cpu-history
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 202
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: attachmerb_fu
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 203
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: elasticfox
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 204
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: git-wiki
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 205
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: awesome_nested_set
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 206
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: embedded-actions
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 207
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: metafusion
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 208
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: viper
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 209
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: punktfiler
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 210
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: logeye
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 211
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: mephisto_textlinkads
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 212
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: nginx
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 213
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: feedbarn
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 214
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: reinh-com
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 215
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: fireeagle
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 216
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: many-mailers
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 217
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: io
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 218
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: rvideo
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 219
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: cd-covers
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 220
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: ruby-on-rails-tmbundle
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 221
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: jquery-humanize-messages-plugin
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 222
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: fixture-scenarios
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 223
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: rails-plugins
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 224
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: date-performance
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 225
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: rails-ssl-authentication
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 226
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: onebody
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 227
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: jacks-php
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 228
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: getfake
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 229
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: effen
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 230
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: template
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 231
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: TourGuide
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 232
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: configuration-files
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 233
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: fora
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 234
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: dcbot
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 235
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: cudgel
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 236
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: micro
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 237
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: cacheable
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 238
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: micro-theme
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 239
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: icaltodoscheduler
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 240
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: catface
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 241
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: pyelection
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 242
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: git-todo-py
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 243
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: merb-core
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 244
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: merb-more
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 245
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: merb-plugins
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 246
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: ami-ragel
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 247
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: test
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 248
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: hydrate
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 249
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: pmpknpi
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 250
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: restful-authentication
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 251
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: facebox
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 252
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: bhandar
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 253
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: gcbot
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 254
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: will_paginate
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 255
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: socialgraph-viewer
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 256
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: ruvi
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 257
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: soco
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 258
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: ruby-gsl
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 259
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: yard
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 260
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: castanaut
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 261
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: ruby-tmbundle
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 262
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: html-tmbundle
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 263
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: orb
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 264
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: ikhebhonger
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 265
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: sprinkle
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 266
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: wlwdeezerplayer
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 267
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: utility-belt
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 268
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: restful-authentication
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 269
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: ruby-screen
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 270
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: eatingsafe
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 271
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: name_parser
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 272
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: vebiasoptimizer
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 273
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: ext_scaffold
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 274
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: spongewolf
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 275
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: amazing
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 276
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: ruby-merlin
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 277
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: tekkonfig
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 278
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: ruby-idology
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 279
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: luaclr
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 280
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: bricklet-core
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 281
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: bookeater
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 282
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: facon
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 283
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: stat
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 284
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: rubynomic
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 285
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: depth-charge
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 286
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: portfolio
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 287
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: clickatell
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 288
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: do_notation
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 289
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: pictrails
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 290
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: annotate_models
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 291
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: blueprint_layout
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 292
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: wp_theme_victoria
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 293
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: cosmo
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 294
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: fogbugz-svnhook
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 295
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: haml
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 296
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: quicktest
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 297
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: getfamilliarwithgit
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 298
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: tonal
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 299
+сен 09, 2019 2:43:28 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 3, remaining rate: 4990
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: axiom
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 300
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: deal
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 301
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: knuff
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 302
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: testprj
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 303
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: gazelle
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 304
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: fast-recs-collate
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 305
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: family_budget
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 306
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: javascript-jquery-tmbundle
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 307
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: markable
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 308
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: erlenmeyer
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 309
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: yikes
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 310
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: erlenmeyer
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 311
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: python-tool-legacy
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 312
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: tableau
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 313
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: blue-channel
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 314
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: weshowthemoney-com
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 315
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: tarn
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 316
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: jquery
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 317
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: bazdig
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 318
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: github-gem
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 319
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: music-renamer
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 320
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: emacs-torrent
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 321
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: roleplay
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 322
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: mediabumper
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 323
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: cl-randist
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 324
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: thesis
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 325
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: db_console
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 326
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: merb-core
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 327
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: srename
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 328
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: django-mptt
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 329
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: mizar2cl
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 330
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: lmkproject
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 331
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: gemedit
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 332
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: aasm
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 333
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: prototype-tmbundle
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 334
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: mortal-coil
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 335
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: fixture-scenarios
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 336
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: mongrel_proctitle
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 337
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: json-glib
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 338
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: piccr
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 339
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: sinatra
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 340
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: vimfiles
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 341
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: fightinjoe-merb-blog
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 342
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: capture
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 343
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: vocab
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 344
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: raz
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 345
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: rpy
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 346
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: action_mailer_tls
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 347
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: puppet
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 348
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: alm-familyfellowship-com
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 349
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: ir-toys
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 350
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: open-scores
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 351
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: email-veracity
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 352
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: tempo
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 353
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: weblocks
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 354
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: ezapprove2
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 355
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: merb-plugins
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 356
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: merb_mart
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 357
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: enki
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 358
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: records-at-large
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 359
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: enki-vim
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 360
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: tools
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 361
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: miter
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 362
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: hem
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 363
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: t-ch-y
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 364
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: ircious
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 365
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: audenshaw-group-cms
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 366
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: camarabuntu
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 367
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: icalico
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 368
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: gentlerest
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 369
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: treetop
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 370
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: puppet
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 371
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: delicious-meal
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 372
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: sxsw
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 373
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: joe-solving-np-complete-problems
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 374
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: acts_as_exclusive
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 375
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: cairo-clock
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 376
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: daonut
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 377
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: java-memcached-client
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 378
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: yacleaner
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 379
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: good-browser-bad-browser
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 380
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: rspec_hpricot_matchers
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 381
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: buildwatch
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 382
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: ruby-freebase
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 383
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: rspec
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 384
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: ruby-freebase
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 385
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: contentpackmaker
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 386
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: github-gem
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 387
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: n3-tmbundle
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 388
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: servitor
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 389
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: functional-javascript
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 390
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: sequentially
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 391
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: pyfsa
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 392
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: fluently
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 393
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: mephisto
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 394
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: mephisto
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 395
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: stickshift
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 396
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: photo
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 397
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: chesticles
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 398
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: jazz
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 399
+сен 09, 2019 2:43:29 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 4, remaining rate: 4989
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: django-threadedcomments
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 400
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: guitarzero
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 401
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: crapvine
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 402
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: crack-attack
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 403
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: mamafs_full
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 404
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: chesticles
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 405
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: score-keeper
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 406
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: resource_this
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 407
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: majocontrol
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 408
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: picasync
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 409
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: mysqlerl
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 410
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: tarski-utilities
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 411
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: warbler
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 412
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: msync
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 413
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: flurry
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 414
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: pa2
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 415
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: ci_reporter
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 416
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: jrexml
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 417
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: test-parser
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 418
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: pysolar
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 419
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: ck_fu
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 420
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: bzlauncher
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 421
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: coml
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 422
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: uploader
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 423
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: merb-plugins
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 424
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: gitnub
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 425
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: fireeagle-javascript-lib
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 426
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: merb-more
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 427
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: merb-plugins
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 428
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: nostromo
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 429
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: django-markuputils
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 430
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: biblioteka
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 431
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: ratom
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 432
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: gdocsync
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 433
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: ruby-svg
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 434
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: jquoteticker
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 435
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: webrat
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 436
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: migration_concordance
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 437
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: rspec
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 438
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: webrat
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 439
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: has_many_tenses
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 440
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: db-populate
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 441
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: rspec-on-rails-matchers
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 442
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: active_delegate
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 443
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: tomboy-blogposter
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 444
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: tempdir
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 445
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: webrat
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 446
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: strac
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 447
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: yahtzee
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 448
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: yahtzee
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 449
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: wsdl-gen-for-php
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 450
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: castanaut
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 451
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: how-to
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 452
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: utilitybelt
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 453
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: oxy-cursors
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 454
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: merb-core
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 455
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: fluid-twitter
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 456
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: calltom
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 457
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: git-tmbundle
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 458
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: dose2
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 459
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: sgh
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 460
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: merb-more
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 461
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: merb-plugins
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 462
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: System
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 463
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: mobilepushr
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 464
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: mephisto
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 465
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: keyword_search
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 466
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: attachment_fu
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 467
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: textilizefu
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 468
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: capistrano
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 469
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: masochism
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 470
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: adoc-themes
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 471
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: masochism
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 472
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: active_record_context
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 473
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: acts_as_paranoid
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 474
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: acts_as_versioned
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 475
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: permalink_fu
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 476
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: model_stubbing
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 477
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: relative_time_helpers
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 478
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: viking
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 479
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: ruby-mozjs
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 480
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: multiclutch
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 481
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: task-view
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 482
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: meditation-timer
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 483
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: upgrinder
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 484
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: git-wiki
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 485
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: sputnik
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 486
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: mephisto-haml-templates-plugin
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 487
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: gajim
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 488
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: jquery_spike
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 489
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: actsassubscribeable
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 490
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: xparky
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 491
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: talk
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 492
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: samba3-howto-russian
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 493
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: database_form
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 494
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: daylist
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 495
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: instance_validations
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 496
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: tagua
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 497
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: no-peeping-toms
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 498
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: rspec-plugin-generator
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 499
+сен 09, 2019 2:43:30 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 5, remaining rate: 4988
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: masochism
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 500
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: samba3-howto-russian
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 501
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: miter
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 502
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: rackinterfacefilter
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 503
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: hostipfox-firefox-plugin
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 504
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: j2me-oauth
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 505
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: immutable_attributes
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 506
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: permanent_records
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 507
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: sweet_assets
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 508
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: simple_pages
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 509
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: cached_values
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 510
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: gltrail
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 511
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: torresmos-tv
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 512
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: koowaldah
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 513
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: rspec_on_rails_nested_scaffold
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 514
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: mofo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 515
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: fire-eagle-python-binding
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 516
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: redmine_ticket_emailer
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 517
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: sake-git
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 518
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: fireeagle-updater-midlet
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 519
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: random-scripts
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 520
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: earth
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 521
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: rubigen
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 522
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: satchmo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 523
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: newgem
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 524
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: composite_primary_keys
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 525
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: rails-template
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 526
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: boolean_web_service
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 527
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: rspec
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 528
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: github-trac
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 529
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: tidbits
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 530
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: rubycas-client
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 531
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: globalite
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 532
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: mimetype-fu
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 533
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: ar-backup
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 534
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: time-tracker-for-mac
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 535
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: merb-more
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 536
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: merb-plugins
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 537
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: strokedb
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 538
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: plasma-physics-animator
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 539
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: rails-generator-generator
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 540
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: jquery-tablelib
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 541
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: jquery-uitableedit
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 542
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: jquery-uitablefilter
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 543
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: xss_terminate
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 544
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: git-rails
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 545
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: skema
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 546
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: skema
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 547
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: dovetail
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 548
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: vanilla-rb
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 549
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: soup
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 550
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: winamp-midi-control
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 551
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: nu
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 552
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: dogonrails
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 553
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: fumblerooski
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 554
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: firefox-history-analyzer
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 555
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: cache_fu
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 556
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: freetrail
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 557
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: arfbot
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 558
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: agave2
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 559
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: locking
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 560
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: hadoop-streaming
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 561
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: lambda
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 562
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: ocamlobjs
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 563
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: asset_packager
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 564
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: viddlerruby
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 565
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: minimagick
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 566
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: fireeagle-php-lib
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 567
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: rstack
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 568
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: has_many_tenses
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 569
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: flick-fleck
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 570
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: maphilight
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 571
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: mimetype-fu
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 572
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: git-wiki
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 573
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: webvo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 574
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: object_proxy
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 575
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: waves_rspec
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 576
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: grit
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 577
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: brake
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 578
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: polypage
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 579
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: ar-backup
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 580
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: gitty-migrations
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 581
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: whotowho
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 582
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: tutorial
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 583
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: acts_as_line
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 584
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: white-glove-tracking
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 585
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: gabby
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 586
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: rolldabeats-lookup
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 587
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: filemark-maker
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 588
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: helloworld
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 589
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: optik
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 590
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: sixsigmaforms
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 591
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: konsole
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 592
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: ocaml-community
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 593
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: django-plugins
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 594
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: ruby-git
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 595
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: sdruby-raffle
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 596
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: javascridialog
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 597
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: decafbland-limechat
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 598
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: portfolio
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 599
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 6, remaining rate: 4987
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 0, name: django-ignite
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 600
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 1, name: aintablog
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 601
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 2, name: can_has_cached
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 602
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 3, name: can_has_cached
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 603
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 4, name: flatscrap
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 604
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 5, name: merb-vs-rails
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 605
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 6, name: acts_as_taggable_on_steroids
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 606
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 7, name: test1
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 607
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 8, name: storygen
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 608
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 9, name: learnstat
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 609
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 10, name: range_set
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 610
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 11, name: aviary
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 611
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 12, name: range_set
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 612
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 13, name: nostromo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 613
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 14, name: erlectricity
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 614
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 15, name: cooloptions
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 615
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 16, name: query_trace
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 616
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 17, name: active_model
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 617
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 18, name: methodchain
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 618
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 19, name: datamapper-tmbundle
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 619
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 20, name: rest-client
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 620
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 21, name: git-chdiff-scripts
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 621
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 22, name: codereviewr
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 622
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 23, name: scenarios
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 623
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 24, name: codereviewr
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 624
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 25, name: plugit
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 625
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 26, name: whimsy
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 626
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 27, name: codereviewr
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 627
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 28, name: tamarind
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 628
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 29, name: gitnub
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 629
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 30, name: merb-tmbundle
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 630
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 31, name: pywebgen
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 631
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 32, name: perspective-el
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 632
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 33, name: poll-builder
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 633
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 34, name: dot-emacs
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 634
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 35, name: assistance
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 635
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 36, name: godo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 636
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 37, name: dissemina
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 637
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 38, name: dpss
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 638
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 39, name: nuyaml
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 639
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 40, name: merb_global
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 640
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 41, name: nupagepacker
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 641
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 42, name: tangoclawsextended
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 642
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 43, name: numarkdown
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 643
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 44, name: Nunja
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 644
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 45, name: digitalcodes-org
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 645
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 46, name: wifidog---freethenet-client
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 646
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 47, name: python-adwords-api
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 647
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 48, name: merb-plugins
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 648
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 49, name: polyglot
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 649
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 50, name: sequel_mailer
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 650
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 51, name: module-import
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 651
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 52, name: mchung-code
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 652
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 53, name: analog
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 653
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 54, name: nufound
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 654
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 55, name: git-ruby
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 655
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 56, name: aurora
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 656
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 57, name: livejournaller
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 657
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 58, name: screw-unit
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 658
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 59, name: arel
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 659
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 60, name: swisdk2
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 660
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 61, name: blanket
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 661
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 62, name: russian-gallery
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 662
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 63, name: shipping_calc
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 663
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 64, name: alterego
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 664
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 65, name: annotate_models
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 665
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 66, name: typo-wordpress
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 666
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 67, name: gedit-themes
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 667
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 68, name: textmate-bundles
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 668
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 69, name: socialactions-mashup-rssa-crawler-and-api
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 669
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 70, name: claws_mail_opensync_plugin
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 670
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 71, name: claws-mail-sync
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 671
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 72, name: media
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 672
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 73, name: ruby-kqueue
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 673
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 74, name: cbs_sports
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 674
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 75, name: rb-gps
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 675
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 76, name: openaustralia-parser
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 676
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 77, name: openaustralia-app
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 677
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 78, name: flooterbuck
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 678
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 79, name: capitate
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 679
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 80, name: nerdtree
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 680
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 81, name: merb-tmbundle
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 681
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 82, name: nerdcommenter
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 682
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 83, name: the-doctor
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 683
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 84, name: inline_executor
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 684
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 85, name: beast--contenteditor
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 685
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 86, name: spree
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 686
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 87, name: cl-geometry
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 687
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 88, name: gnat
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 688
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 89, name: emacs-rails
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 689
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 90, name: merb-core
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 690
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 91, name: merb-more
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 691
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 92, name: merb-plugins
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 692
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 93, name: cl-symbolic-math
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 693
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 94, name: wiki2fb2
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 694
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 95, name: cars
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 695
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 96, name: page_attachments
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 696
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 97, name: nuki
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 697
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 98, name: redo-py
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 698
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Index: 99, name: godo
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Java repository, number: 699
+сен 09, 2019 2:43:31 AM MainKt sendDataBeforeTrigger
+INFO: Iteration: 7, remaining rate: 4986

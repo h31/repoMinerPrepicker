@@ -1,15 +1,16 @@
-import com.rabbitmq.client.*
+import com.rabbitmq.client.Channel
+import com.rabbitmq.client.Connection
+import com.rabbitmq.client.ConnectionFactory
+import com.rabbitmq.client.MessageProperties
+import com.xenomachina.argparser.ArgParser
+import com.xenomachina.argparser.mainBody
 import org.eclipse.egit.github.core.Repository
-import org.eclipse.egit.github.core.client.GitHubClient
 import org.eclipse.egit.github.core.client.NoSuchPageException
 import org.eclipse.egit.github.core.client.PageIterator
 import org.eclipse.egit.github.core.client.RequestException
 import org.eclipse.egit.github.core.service.RepositoryService
 import java.io.IOException
-import java.nio.charset.Charset
-import java.util.HashMap
-import com.xenomachina.argparser.ArgParser
-import com.xenomachina.argparser.mainBody
+import java.util.*
 import java.util.logging.FileHandler
 import java.util.logging.Level
 import java.util.logging.Logger
@@ -19,17 +20,15 @@ import java.util.logging.SimpleFormatter
  * Created by Neverland on 18.01.2018 .
  */
 
-val TAG="repoMinerPrepicker11: "
+val TAG = "repoMinerPrepicker11: "
 
-var numberOfJavaRepositories=0
-val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue";
-val ACK_QUEUE_NAME = "ackQueue";
-var clientInitialLimitedRequestTime = System.currentTimeMillis()
+var numberOfJavaRepositories = 0
+val TASKS_QUEUE_NAME = "repositoryDownloadTasksQueue"
 
 val client = GitHubClientWithResetInfo()
 
-var fileLogger: Logger? = null
-var fileHandler: FileHandler? = null
+var fileLogger: Logger = Logger.getLogger(TAG + "Log")
+lateinit var fileHandler: FileHandler
 
 class MyArgs(parser: ArgParser) {
 
@@ -47,21 +46,20 @@ fun main(args: Array<String>) {
         parsedArgs = ArgParser(args).parseInto(::MyArgs)
     }
 
-   fileLogger = Logger.getLogger(TAG+"Log")
-
     try {
 
         fileHandler = FileHandler(parsedArgs!!.logger)
-        fileLogger!!.addHandler(fileHandler)
+        fileLogger.addHandler(fileHandler)
         val formatter = SimpleFormatter()
-        fileHandler!!.formatter = formatter
+        fileHandler.formatter = formatter
 
     } catch (e: IOException) {
         e.printStackTrace()
     }
 
     val factory = ConnectionFactory()
-    factory.host = "10.100.174.242"
+    factory.host = "192.168.10.2"
+    factory.port = 55672
     factory.username = "aaa"
     factory.password = "aaa"
     factory.requestedHeartbeat = 0
@@ -79,78 +77,62 @@ fun main(args: Array<String>) {
 
     val repoListIterator = repositoryService.pageAllRepositories()
 
-    var initialIteration = 0;
-
-   sendData(connection, repoListIterator, channel)
+    sendData(connection, repoListIterator, channel)
 
 }
 
-fun sendData(connection: Connection, pageIterator: PageIterator<Repository>, sendChannel: Channel){
+fun sendData(connection: Connection, pageIterator: PageIterator<Repository>, sendChannel: Channel) {
 
-    val dataSendResult=sendDataBeforeTrigger(pageIterator, sendChannel)
+    sendDataBeforeTrigger(pageIterator, sendChannel)
 
-    if (dataSendResult.first){
-        fileLogger!!.log(Level.INFO,"Waiting for acknowledgment (100 picked repo's should be downloaded&stored).")
-        waitForDataConsumption(connection, sendChannel, pageIterator);
-        return
-    }
+    fileLogger.log(Level.INFO, "Total number of repo's: $totalNumberOfRepos")
+    fileLogger.log(Level.INFO, "Number of java repo's: $numberOfJavaRepositories")
 
-    fileLogger!!.log(Level.INFO,"Total number of repo's: $totalNumberOfRepos")
-    fileLogger!!.log(Level.INFO,"Number of java repo's: $numberOfJavaRepositories")
-
-    sendChannel.basicPublish("", TASKS_QUEUE_NAME, null, "stop".toByteArray())
     sendChannel.close()
     connection.close()
 
-    fileHandler!!.close()
+    fileHandler.close()
 }
 
-var pagePickerCounter =0
-var totalNumberOfRepos=0
+var pagePickerCounter = 0
+var totalNumberOfRepos = 0
 
-var javaRepositoriesCounter=0
+var javaRepositoriesCounter = 0
 
-private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
-                                  sendChannel: Channel): Pair<Boolean, Int> {
-
+private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>, sendChannel: Channel) {
     while (pageIterator.hasNext()) {
-
-        fileLogger!!.log(Level.INFO,"Iteration: $pagePickerCounter, remaining rate: ${client.remainingRequests}")
-
+        fileLogger.log(Level.INFO, "Iteration: $pagePickerCounter, remaining rate: ${client.remainingRequests}")
         try {
+            if (client.remainingRequests in 0..200) {
+                client.sleepUntilResetTime()
+            }
+            val page = pageIterator.next().withIndex()
 
-            val tmp=pageIterator.next().withIndex()
-
-            for ((index, repo) in tmp) {
-                fileLogger!!.log(Level.INFO,"Index: $index, name: ${repo.name}")
+            for ((index, repo) in page) {
+                fileLogger.log(Level.INFO, "Index: $index, name: ${repo.name}")
                 totalNumberOfRepos++
-                if (((repo.language == "java") || (repo.language == null))&&repo.size<=2097151) {       // Для попадания в [] byte
-                    fileLogger!!.log(Level.INFO,"Java repository, number: $javaRepositoriesCounter")
+                if (((repo.language == "java") || (repo.language == null)) && repo.size <= 2097151) {       // Для попадания в [] byte
+                    fileLogger.log(Level.INFO, "Java repository, number: $javaRepositoriesCounter")
                     javaRepositoriesCounter++
 
                     sendChannel.basicPublish("", TASKS_QUEUE_NAME,
                             MessageProperties.PERSISTENT_BASIC, repo.url.toByteArray())
-                    numberOfJavaRepositories++;                                                         // Можно объединить
-                    if ((javaRepositoriesCounter) % 100 == 0) {
-                        return Pair(true,javaRepositoriesCounter)
-                    }
+                    numberOfJavaRepositories++                                                         // Можно объединить
                 }
             }
         } catch (e: NoSuchPageException) {
-            fileLogger!!.log(Level.INFO,"Abuse/ rate limit handler processing.")
+            fileLogger.log(Level.INFO, "Abuse/ rate limit handler processing.")
             if ((e.cause as RequestException).status == 403) {
-                val sleepDuration = clientInitialLimitedRequestTime + 1000 * 60 * 60 - System.currentTimeMillis()
-                Thread.sleep(sleepDuration)
-                clientInitialLimitedRequestTime = System.currentTimeMillis()
+                client.sleepUntilResetTime()
             } else {
-                val exceptionMessage="Connection was abandoned: " + e.message;
-                fileLogger!!.log(Level.INFO,exceptionMessage)
+                val exceptionMessage = "Connection was abandoned: " + e.message
+                fileLogger.log(Level.INFO, exceptionMessage)
 
-                val connection=sendChannel.connection
+                val connection = sendChannel.connection
                 sendChannel.close()
                 connection.close()
 
-                fileHandler!!.close()
+                fileHandler.close()
 
                 throw Exception(exceptionMessage)
             }
@@ -158,8 +140,6 @@ private fun sendDataBeforeTrigger(pageIterator: PageIterator<Repository>,
 
         pagePickerCounter++
     }
-
-    return Pair(false,0)
 }
 
 //            if (message == "consumed") {
